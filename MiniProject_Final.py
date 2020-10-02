@@ -48,3 +48,4 @@ b1.place(x=180,y=410,width=190,height=40)
 
 w1.configure(bg='#333333')
 w1.mainloop()
+x='Athrva'
